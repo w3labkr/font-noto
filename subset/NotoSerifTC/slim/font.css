@@ -1,0 +1,63 @@
+@font-face {
+  font-weight: 200;
+  font-family: "Noto Serif TC";
+  font-style: normal;
+  src: url("NotoSerifTC-ExtraLight.woff2") format("woff2"),
+    url("NotoSerifTC-ExtraLight.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 300;
+  font-family: "Noto Serif TC";
+  font-style: normal;
+  src: url("NotoSerifTC-Light.woff2") format("woff2"),
+    url("NotoSerifTC-Light.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 400;
+  font-family: "Noto Serif TC";
+  font-style: normal;
+  src: url("NotoSerifTC-Regular.woff2") format("woff2"),
+    url("NotoSerifTC-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 500;
+  font-family: "Noto Serif TC";
+  font-style: normal;
+  src: url("NotoSerifTC-Medium.woff2") format("woff2"),
+    url("NotoSerifTC-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 600;
+  font-family: "Noto Serif TC";
+  font-style: normal;
+  src: url("NotoSerifTC-SemiBold.woff2") format("woff2"),
+    url("NotoSerifTC-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 700;
+  font-family: "Noto Serif TC";
+  font-style: normal;
+  src: url("NotoSerifTC-Bold.woff2") format("woff2"),
+    url("NotoSerifTC-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 800;
+  font-family: "Noto Serif TC";
+  font-style: normal;
+  src: url("NotoSerifTC-ExtraBold.woff2") format("woff2"),
+    url("NotoSerifTC-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 900;
+  font-family: "Noto Serif TC";
+  font-style: normal;
+  src: url("NotoSerifTC-Black.woff2") format("woff2"),
+    url("NotoSerifTC-Black.woff") format("woff");
+}

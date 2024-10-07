@@ -1,0 +1,71 @@
+@font-face {
+  font-weight: 100;
+  font-family: "Noto Sans SC";
+  font-style: normal;
+  src: url("NotoSansSC-Thin.woff2") format("woff2"),
+    url("NotoSansSC-Thin.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 200;
+  font-family: "Noto Sans SC";
+  font-style: normal;
+  src: url("NotoSansSC-ExtraLight.woff2") format("woff2"),
+    url("NotoSansSC-ExtraLight.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 300;
+  font-family: "Noto Sans SC";
+  font-style: normal;
+  src: url("NotoSansSC-Light.woff2") format("woff2"),
+    url("NotoSansSC-Light.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 400;
+  font-family: "Noto Sans SC";
+  font-style: normal;
+  src: url("NotoSansSC-Regular.woff2") format("woff2"),
+    url("NotoSansSC-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 500;
+  font-family: "Noto Sans SC";
+  font-style: normal;
+  src: url("NotoSansSC-Medium.woff2") format("woff2"),
+    url("NotoSansSC-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 600;
+  font-family: "Noto Sans SC";
+  font-style: normal;
+  src: url("NotoSansSC-SemiBold.woff2") format("woff2"),
+    url("NotoSansSC-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 700;
+  font-family: "Noto Sans SC";
+  font-style: normal;
+  src: url("NotoSansSC-Bold.woff2") format("woff2"),
+    url("NotoSansSC-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 800;
+  font-family: "Noto Sans SC";
+  font-style: normal;
+  src: url("NotoSansSC-ExtraBold.woff2") format("woff2"),
+    url("NotoSansSC-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 900;
+  font-family: "Noto Sans SC";
+  font-style: normal;
+  src: url("NotoSansSC-Black.woff2") format("woff2"),
+    url("NotoSansSC-Black.woff") format("woff");
+}

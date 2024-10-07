@@ -1,0 +1,63 @@
+@font-face {
+  font-weight: 200;
+  font-family: "Noto Serif KR";
+  font-style: normal;
+  src: url("NotoSerifKR/kr/NotoSerifKR-ExtraLight.woff2") format("woff2"),
+    url("./NotoSerifKR/kr/NotoSerifKR-ExtraLight.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 300;
+  font-family: "Noto Serif KR";
+  font-style: normal;
+  src: url("NotoSerifKR/kr/NotoSerifKR-Light.woff2") format("woff2"),
+    url("./NotoSerifKR/kr/NotoSerifKR-Light.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 400;
+  font-family: "Noto Serif KR";
+  font-style: normal;
+  src: url("NotoSerifKR/kr/NotoSerifKR-Regular.woff2") format("woff2"),
+    url("./NotoSerifKR/kr/NotoSerifKR-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 500;
+  font-family: "Noto Serif KR";
+  font-style: normal;
+  src: url("NotoSerifKR/kr/NotoSerifKR-Medium.woff2") format("woff2"),
+    url("./NotoSerifKR/kr/NotoSerifKR-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 600;
+  font-family: "Noto Serif KR";
+  font-style: normal;
+  src: url("NotoSerifKR/kr/NotoSerifKR-SemiBold.woff2") format("woff2"),
+    url("./NotoSerifKR/kr/NotoSerifKR-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 700;
+  font-family: "Noto Serif KR";
+  font-style: normal;
+  src: url("NotoSerifKR/kr/NotoSerifKR-Bold.woff2") format("woff2"),
+    url("./NotoSerifKR/kr/NotoSerifKR-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 800;
+  font-family: "Noto Serif KR";
+  font-style: normal;
+  src: url("NotoSerifKR/kr/NotoSerifKR-ExtraBold.woff2") format("woff2"),
+    url("./NotoSerifKR/kr/NotoSerifKR-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 900;
+  font-family: "Noto Serif KR";
+  font-style: normal;
+  src: url("NotoSerifKR/kr/NotoSerifKR-Black.woff2") format("woff2"),
+    url("./NotoSerifKR/kr/NotoSerifKR-Black.woff") format("woff");
+} 

@@ -1,0 +1,63 @@
+@font-face {
+  font-weight: 200;
+  font-family: "Noto Serif JP";
+  font-style: normal;
+  src: url("NotoSerifJP-ExtraLight.woff2") format("woff2"),
+    url("NotoSerifJP-ExtraLight.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 300;
+  font-family: "Noto Serif JP";
+  font-style: normal;
+  src: url("NotoSerifJP-Light.woff2") format("woff2"),
+    url("NotoSerifJP-Light.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 400;
+  font-family: "Noto Serif JP";
+  font-style: normal;
+  src: url("NotoSerifJP-Regular.woff2") format("woff2"),
+    url("NotoSerifJP-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 500;
+  font-family: "Noto Serif JP";
+  font-style: normal;
+  src: url("NotoSerifJP-Medium.woff2") format("woff2"),
+    url("NotoSerifJP-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 600;
+  font-family: "Noto Serif JP";
+  font-style: normal;
+  src: url("NotoSerifJP-SemiBold.woff2") format("woff2"),
+    url("NotoSerifJP-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 700;
+  font-family: "Noto Serif JP";
+  font-style: normal;
+  src: url("NotoSerifJP-Bold.woff2") format("woff2"),
+    url("NotoSerifJP-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 800;
+  font-family: "Noto Serif JP";
+  font-style: normal;
+  src: url("NotoSerifJP-ExtraBold.woff2") format("woff2"),
+    url("NotoSerifJP-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 900;
+  font-family: "Noto Serif JP";
+  font-style: normal;
+  src: url("NotoSerifJP-Black.woff2") format("woff2"),
+    url("NotoSerifJP-Black.woff") format("woff");
+}

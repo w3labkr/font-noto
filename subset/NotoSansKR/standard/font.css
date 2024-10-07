@@ -1,0 +1,71 @@
+@font-face {
+  font-weight: 100;
+  font-family: "Noto Sans KR";
+  font-style: normal;
+  src: url("NotoSansKR/kr-hanja/NotoSansKR-Thin.woff2") format("woff2"),
+    url("./NotoSansKR/kr-hanja/NotoSansKR-Thin.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 200;
+  font-family: "Noto Sans KR";
+  font-style: normal;
+  src: url("NotoSansKR/kr-hanja/NotoSansKR-ExtraLight.woff2") format("woff2"),
+    url("./NotoSansKR/kr-hanja/NotoSansKR-ExtraLight.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 300;
+  font-family: "Noto Sans KR";
+  font-style: normal;
+  src: url("NotoSansKR/kr-hanja/NotoSansKR-Light.woff2") format("woff2"),
+    url("./NotoSansKR/kr-hanja/NotoSansKR-Light.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 400;
+  font-family: "Noto Sans KR";
+  font-style: normal;
+  src: url("NotoSansKR/kr-hanja/NotoSansKR-Regular.woff2") format("woff2"),
+    url("./NotoSansKR/kr-hanja/NotoSansKR-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 500;
+  font-family: "Noto Sans KR";
+  font-style: normal;
+  src: url("NotoSansKR/kr-hanja/NotoSansKR-Medium.woff2") format("woff2"),
+    url("./NotoSansKR/kr-hanja/NotoSansKR-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 600;
+  font-family: "Noto Sans KR";
+  font-style: normal;
+  src: url("NotoSansKR/kr-hanja/NotoSansKR-SemiBold.woff2") format("woff2"),
+    url("./NotoSansKR/kr-hanja/NotoSansKR-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 700;
+  font-family: "Noto Sans KR";
+  font-style: normal;
+  src: url("NotoSansKR/kr-hanja/NotoSansKR-Bold.woff2") format("woff2"),
+    url("./NotoSansKR/kr-hanja/NotoSansKR-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 800;
+  font-family: "Noto Sans KR";
+  font-style: normal;
+  src: url("NotoSansKR/kr-hanja/NotoSansKR-ExtraBold.woff2") format("woff2"),
+    url("./NotoSansKR/kr-hanja/NotoSansKR-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 900;
+  font-family: "Noto Sans KR";
+  font-style: normal;
+  src: url("NotoSansKR/kr-hanja/NotoSansKR-Black.woff2") format("woff2"),
+    url("./NotoSansKR/kr-hanja/NotoSansKR-Black.woff") format("woff");
+} 
